@@ -1,0 +1,2 @@
+2024-04-05T14:50:40+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count було викликано, але типи замовлень не були зареєстровані: можливо, його було викликано занадто рано.
+2024-04-05T15:26:39+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count було викликано, але типи замовлень не були зареєстровані: можливо, його було викликано занадто рано.
